@@ -1,6 +1,6 @@
 # Exp-03-WEB
-# Name:Bhuvanesh.S.R
-# Reference no:23013380
+# Name:Alan Zion H
+# Reference no:23013715
 # AIM
 Create a Django website with five users using function-based views. Two users are to be staff users (including admin) and the other three users are non-staff users.
 
@@ -33,7 +33,8 @@ Step 9:
 Enter given credentials to sign in into django server.
 
 # Output:
-![WEb exp 3 django SS](https://github.com/Bhuvanesh-Suresh/ODD2023-WT-Ex-02-Admin/assets/145742661/00242ecb-ef44-46b8-bdea-80843f711a8c)
+![Screenshot (17)](https://github.com/ALANZION/Exp-03-WEB/assets/145743064/ca3aa20e-17f2-4d61-a095-5d3daef19784)
+
 
 
 # Result:
